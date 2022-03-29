@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Beth - pronouns she/her - former logistics planner turned software developer with a passion for puzzles and problem solving. In January 2021, I left an unsatisfying career to attend Turing School of Software and Design for Front End Development. After a grueling 7 months of work, I accepted my first dev role working for Knight-Swift Transportation LLC as a Full Stack I in August. Since then, I've continued learning new frameworks and most recently, Back End languages. I thrive within a collaborative team environment and particularly enjoy the planning process of application architecture. 17-years of logistics experience and transportation industry knowledge have helped me become a more flexible and adaptable team member who can make solid informed decisions. 
+I'm Beth - pronouns she/her - former logistics planner turned software developer with a passion for puzzles and problem solving. In January 2021, I left an unsatisfying career to attend Turing School of Software and Design for Front End Development. After a grueling 7 months of hard work, I accepted my first dev role working for Knight-Swift Transportation LLC as a Full Stack I in August. I've continued learning new frameworks, Directus (Content Management System), and have begun learning Back End languages. I thrive within a collaborative team environment and particularly enjoy the planning process of application architecture. 17-years of logistics experience and transportation industry knowledge have helped me become a more flexible and adaptable team member who can make solid informed decisions. 
 
 - 🔭 Continuing to build up my Back End toolset
 - 🌱 Currently working toward promotion to Level II Full Stack Dev
@@ -71,7 +71,7 @@ I'm Beth - pronouns she/her - former logistics planner turned software developer
   </tr>
 </table>
 
-#### Editing
+#### Misc
 <table>
   <tr>
     <td>VS Code</td>
