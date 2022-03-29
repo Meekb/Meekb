@@ -4,7 +4,7 @@ I'm Beth - pronouns she/her - former logistics planner turned software developer
 
 - 🔭 Continuing to build up my Back End toolset
 - 🌱 Currently working toward promotion to Level II Full Stack Dev
-- ✅ View my completed [Certificates](https://www.codecademy.com/profiles/bethMeeker2365205360): Learn Node.js, Learn PHP, and Connecting Front-End to Back-End
+- ✅ View my completed [Certificates](https://www.codecademy.com/profiles/bethMeeker2365205360): Create REST APIs with Spring and Java Skill Path, Learn PHP, Learn Node.js, and Connecting Front-End to Back-End
 - ⚡ Fun fact: Traveling for a deeper experience and understanding of the world is my biggest passion. I began to pursue this dream at age 20 and it's led me to stand upon The Great Wall of China, St. Mary's Basilica in Krakow Poland, and riding a two-humped camel through the Gobi desert.
 
 ## Tech Stack
