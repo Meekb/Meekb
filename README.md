@@ -2,9 +2,9 @@
 
 I'm Beth - pronouns she/her - former logistics planner turned software developer with a passion for puzzles and problem solving. In January 2021, I left an unsatisfying career to attend Turing School of Software and Design for Front End Development. After a grueling 7 months of hard work, I accepted my first dev role working for Knight-Swift Transportation LLC as a Full Stack I in August. I've continued learning new frameworks, Directus (Content Management System), and have begun learning Back End languages. I thrive within a collaborative team environment and particularly enjoy the planning process of application architecture. 17-years of logistics experience and transportation industry knowledge have helped me become a more flexible and adaptable team member who can make solid informed decisions. 
 
-- 🔭 Continuing to build up my Back End toolset
+- 🔭 Currently Learning C#
 - 🌱 Currently working toward promotion to Level II Full Stack Dev
-- ✅ View my completed [Certificates](https://www.codecademy.com/profiles/bethMeeker2365205360): Create REST APIs with Spring and Java Skill Path, Learn PHP, Learn Node.js, and Connecting Front-End to Back-End
+- ✅ View my growing list of completed [Codecademy Certificates](https://www.codecademy.com/profiles/bethMeeker2365205360)
 - ⚡ Fun fact: Traveling for a deeper experience and understanding of the world is my biggest passion. I began to pursue this dream at age 20 and it's led me to stand upon The Great Wall of China, St. Mary's Basilica in Krakow Poland, and riding a two-humped camel through the Gobi desert.
 
 ## Tech Stack
@@ -75,10 +75,12 @@ I'm Beth - pronouns she/her - former logistics planner turned software developer
 <table>
   <tr>
     <td>VS Code</td>
+    <td>Visual Studio</td>
     <td>IntelliJ IDEA</td>
   </tr>
   <tr>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg"/></td>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/intellij-idea.svg"/></td>
   </tr>
 </table>
