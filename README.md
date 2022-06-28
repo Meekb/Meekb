@@ -6,10 +6,12 @@ Went to [Turing School](https://turing.edu/) in Jan 2021
 Currently a Level I dev at Knight-Swift Transportation
 
 - 🔭 Building a Java API to consume news articles and place them into in our CMS with a cron job
-- 🌱 Currently playing in [Vue 3](https://vuejs.org/) and learning [Playwright](https://playwright.dev/) for e2e testing
-- 👀 Looking forward to learning [Histoire](https://histoire.dev/)
+- 🌱 Currently learning / sandboxing:  
+    * [Vue 3](https://vuejs.org/)
+    * [Playwright](https://playwright.dev/) for E2E testing
+    * [Histoire](https://histoire.dev/) for building components in isolation
 - ✅ View my growing list of completed [Codecademy Course Certificates](https://www.codecademy.com/profiles/bethMeeker2365205360)
-- ⚡ Fun fact: I've stood upon The Great Wall of China and ridden a two-humped camel through the Gobi desert
+- ⚡ Fun fact: I've stood upon The Great Wall of China and ridden a two-humped camel through the Gobi desert. Ask me about my travels!
 
 ## Tech Stack
 
