@@ -3,7 +3,7 @@
 Big nerd. Passionate traveler. Career changer.  
 Formerly worked in logistics operations for over 15 years  
 Went to [Turing School](https://turing.edu/) in Jan 2021   
-Currently a Level I dev at Knight-Swift Transportation
+Currently a Full Stack I at Knight-Swift Transportation
 
 - 🔭 Built and refactored my first Java API
 - 🌱 Currently learning / sandboxing:  
