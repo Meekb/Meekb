@@ -71,16 +71,18 @@ Currently a Level I dev at Knight-Swift Transportation
   </tr>
 </table>
 
-#### Misc
+#### IDE
 <table>
   <tr>
+    <td>IntelliJ IDEA</td>
+    <td>Webstorm</td>
     <td>VS Code</td>
     <td>Visual Studio</td>
-    <td>IntelliJ IDEA</td>
   </tr>
   <tr>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/intellij-idea.svg"/></td>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webstorm.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio.svg"/></td>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/intellij-idea.svg"/></td>
   </tr>
 </table>
