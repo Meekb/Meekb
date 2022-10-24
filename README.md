@@ -5,7 +5,7 @@ Formerly worked in logistics operations for over 15 years
 Went to [Turing School](https://turing.edu/) in Jan 2021   
 Currently a Level I dev at Knight-Swift Transportation
 
-- 🔭 Building a Java API to consume news articles and place them into in our CMS with a cron job
+- 🔭 Built and refactored my first Java API
 - 🌱 Currently learning / sandboxing:  
     * [Vue 3](https://vuejs.org/)
     * [Playwright](https://playwright.dev/) for E2E testing
