@@ -5,7 +5,7 @@ Formerly worked in logistics operations for over 15 years
 Went to [Turing School](https://turing.edu/) in Jan 2021   
 Full Stack I at Knight-Swift Transportation
 
-- 🔭 Just finished a Java API that consumes data from WebSphere, writes it to Directus, and OpenShift for containerization
+- 🔭 Just finished a Java API that consumes data from WebSphere, writes it to Directus, and OpenShift for containerization and deployment
 - 🌱 Currently learning / sandboxing:  
     * [Vue 3](https://vuejs.org/)
 - ⚡ Fun fact: I've stood upon The Great Wall of China and ridden a two-humped camel through the Gobi desert. Ask me about my travels!
