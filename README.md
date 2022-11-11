@@ -52,6 +52,18 @@ Full Stack I at Knight-Swift Transportation
   </tr>
 </table>
 
+#### Web-based Git
+<table>
+  <tr>
+    <td>GitLab</td>
+    <td>GitHub</td>
+  </tr>
+  <tr>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/></td>
+     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github.svg"/></td>
+  </tr>
+</table>
+
 #### DevOps
 <table>
   <tr>
