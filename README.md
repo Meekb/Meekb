@@ -3,14 +3,11 @@
 Big nerd. Passionate traveler. Career changer.  
 Formerly worked in logistics operations for over 15 years  
 Went to [Turing School](https://turing.edu/) in Jan 2021   
-Currently a Full Stack I at Knight-Swift Transportation
+Full Stack I at Knight-Swift Transportation
 
-- 🔭 Built and refactored my first Java API
+- 🔭 Just finished a Java API that consumes data from WebSphere, writes it to Directus, and uses Red Hat OpenShift for containerization
 - 🌱 Currently learning / sandboxing:  
     * [Vue 3](https://vuejs.org/)
-    * [Playwright](https://playwright.dev/) for E2E testing
-    * [Histoire](https://histoire.dev/) for building components in isolation
-- ✅ View my growing list of completed [Codecademy Course Certificates](https://www.codecademy.com/profiles/bethMeeker2365205360)
 - ⚡ Fun fact: I've stood upon The Great Wall of China and ridden a two-humped camel through the Gobi desert. Ask me about my travels!
 
 ## Tech Stack
@@ -52,6 +49,16 @@ Currently a Full Stack I at Knight-Swift Transportation
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hibernate.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/></td>
+  </tr>
+</table>
+
+#### DevOps
+<table>
+  <tr>
+    <td>OpenShift</td>
+  </tr>
+  <tr>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openshift.svg"/></td>
   </tr>
 </table>
 
