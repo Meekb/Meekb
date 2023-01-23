@@ -21,8 +21,8 @@ Full Stack I at Knight-Swift Transportation
     <td>Tailwind</td>
     <td>SASS</td>
     <td>Vue</td>
+    <td>Vuetify</td>
     <td>Nuxt</td>
-    <td>Storybook</td>
   </tr>
   <tr>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/></td>
@@ -31,8 +31,8 @@ Full Stack I at Knight-Swift Transportation
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg"/></td> 
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg"/></td>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vuetifyjs.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nuxt-icon.svg"/></td>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/storybook-icon.svg"/></td>
   </tr>
 </table>
 
@@ -42,12 +42,14 @@ Full Stack I at Knight-Swift Transportation
     <td>Java</td>
     <td>Spring</td>
     <td>Hibernate</td>
+    <td>C#</td>
     <td>Node.js</td>
   </tr>
   <tr>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hibernate.svg"/></td>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/></td>
   </tr>
 </table>
