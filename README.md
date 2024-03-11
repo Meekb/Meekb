@@ -3,11 +3,11 @@
 Big nerd and passionate traveler (I just returned from a month in Poland)  
 Formerly worked in logistics operations for over 15 years  
 Went to [Turing School](https://turing.edu/) in Jan 2021   
-Full Stack I at Knight-Swift Transportation
+Working Full Stack at Knight-Swift Transportation since August 2021
 
-- 🔭 Just finished a Java API that consumes data from WebSphere, writes it to Directus, and uses OpenShift for containerization and deployment
+- 🔭 Just finished rebuilding Swift's job search
 - 🌱 Currently:  
-    * Fiddling around with [Vue 3](https://vuejs.org/) and [GreenSocket](https://greensock.com/)
+    * Migrating a Nuxt 2 portal application to Nuxt 3
 - ⚡ Fun fact: I've stood on The Great Wall of China and ridden a two-humped camel through the Gobi desert. Ask me about my travels!
 
 ## Tech Stack
@@ -15,24 +15,26 @@ Full Stack I at Knight-Swift Transportation
 #### Front End
 <table>
   <tr>
-    <td>Javscript ES6</td>
+    <td>Javscript</td>
+    <td>Nuxt</td>
+    <td>Vue</td>
+    <td>Vuetify</td>
     <td>HTML</td>
     <td>CSS</td>
     <td>Tailwind</td>
     <td>SASS</td>
-    <td>Vue</td>
-    <td>Vuetify</td>
-    <td>Nuxt</td>
   </tr>
   <tr>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/></td>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nuxt-icon.svg"/></td>
+     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg"/></td>
+    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vuetifyjs.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg"/></td> 
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vue.svg"/></td>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vuetifyjs.svg"/></td>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nuxt-icon.svg"/></td>
+   
+    
   </tr>
 </table>
 
