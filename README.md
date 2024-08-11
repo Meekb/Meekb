@@ -1,13 +1,13 @@
 ### Hey there 👋 I'm Beth - she/her
 
-Big nerd and passionate traveler (I just returned from a month in Poland)  
+Big nerd and passionate traveler
 Formerly worked in logistics operations for over 15 years  
 Went to [Turing School](https://turing.edu/) in Jan 2021   
-Working Full Stack at Knight-Swift Transportation since August 2021
+Working as a Full Stack Developer at Knight-Swift Transportation since August 2021
 
-- 🔭 Just finished rebuilding Swift's job search
-- 🌱 Currently:  
-    * Migrating a Nuxt 2 portal application to Nuxt 3
+- 🔭 My team just finished migrating an application from Nuxt 2 to Nuxt 3, and transitioned a website from SGA to SSR
+- 🌱 Currently :  
+    * Independently learning pure Ruby and I'm just about to start Rails
 - ⚡ Fun fact: I've stood on The Great Wall of China and ridden a two-humped camel through the Gobi desert. Ask me about my travels!
 
 ## Tech Stack
@@ -22,7 +22,7 @@ Working Full Stack at Knight-Swift Transportation since August 2021
     <td>HTML</td>
     <td>CSS</td>
     <td>Tailwind</td>
-    <td>SASS</td>
+
   </tr>
   <tr>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/></td>
@@ -32,23 +32,20 @@ Working Full Stack at Knight-Swift Transportation since August 2021
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></td>
     <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg"/></td>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg"/></td> 
-   
-    
   </tr>
 </table>
 
 #### Back End
 <table>
   <tr>
-    <td>Java</td>
-    <td>C#</td>
+    <td>PostgreSQL</td>
     <td>Node.js</td>
+    <td>Java</td>
   </tr>
   <tr>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></td>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg"/></td>
-    <td><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/></td>
+    <td><img width="55" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/></td>
+    <td><img width="55" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/></td>
+    <td><img width="55" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/></td>
   </tr>
 </table>
 
