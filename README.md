@@ -8,7 +8,7 @@ Working as a Full Stack Developer at Knight-Swift Transportation since August 20
 - 🔭 My team just finished migrating an application from Nuxt 2 to Nuxt 3 and transitioned a website from SGA to SSR
 - 🌱 Currently :  
     * Independently learning pure Ruby and I'm just about to start Rails
-    * [Ruby & Ranch: Build a Midwest Buffet](https://github.com/Meekb/BuildAMidwestBuffet) - An evolving test suite while I'm                   learning Ruby. Intended to be a practical example of writing and organizing Ruby tests and as a playful nod to Midwest culture, where       buffet lines are a beloved tradition.
+    * [Ruby & Ranch: Build a Midwest Buffet](https://github.com/Meekb/BuildAMidwestBuffet) - An evolving test suite while I'm                   learning Ruby. Intended to be a practical example of writing and organizing Ruby tests and as a playful nod to Midwest culture, where       buffet lines are a beloved tradition
     * Język Polski I - krok po kroku
 - 🌏 Traveling the world is my greatest passion. Some items I have checked off my bucket list:
     * Stood upon The Great Wall of China
