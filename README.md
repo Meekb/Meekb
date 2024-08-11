@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Beth - she/her
 
-Big nerd and passionate traveler
+Big nerd and passionate traveler  
 Formerly worked in logistics operations for over 15 years  
 Went to [Turing School](https://turing.edu/) in Jan 2021   
 Working as a Full Stack Developer at Knight-Swift Transportation since August 2021
