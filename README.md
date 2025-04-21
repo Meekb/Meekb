@@ -1,15 +1,14 @@
-### Hey there 👋 I'm Beth - she/her
+### Hello! Cześć! 👋 I'm Beth - she/her
 
 Big ol' nerd and passionate traveler  
 Formerly worked in logistics operations for 15+ years  
 Went to [Turing School](https://turing.edu/) in Jan 2021   
 Working as a Full Stack Developer at Knight-Swift Transportation since August 2021
 
-- 🔭 My team is currently working on migrating an application from Vue 2 to Vue 3
-- 🌱 Currently :  
-    * Independently learning pure Ruby and I'm just about to start Rails
-    * [Ruby & Ranch: Build a Midwest Buffet](https://github.com/Meekb/BuildAMidwestBuffet) - An evolving test suite while I'm                   learning Ruby. Intended to be a practical example of writing and organizing Ruby tests and as a playful nod to Midwest culture, where       buffet lines are a beloved tradition
-    * Język Polski I - krok po kroku
+- 🔭 My team is currently working on migrating applications from Vue 2 to Vue 3
+- 🌱 I am Currently:
+    * Working on a GitHub portfolio overhaul for international job readiness
+    * Język Polski A1
 - 🌏 Traveling the world is my greatest passion. Some items I have checked off my bucket list:
     * Stood upon The Great Wall of China
     * Rode a two-humped camel through the Gobi Desert
