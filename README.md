@@ -5,7 +5,7 @@ Formerly worked in logistics operations for 15+ years
 Went to [Turing School of Software and Design](https://turing.edu/) in Jan 2021   
 Working as a Full Stack Developer at Knight-Swift Transportation since August 2021
 
-- 🔭 My team is currently working on migrating applications from Vue 2 to Vue 3
+- 🔭 My team is currently working on migrating applications from Vue 2 to Vue 3 and Nuxt 2 to Nuxt 3
 - 🌱 I am Currently:
     * Working on a GitHub portfolio overhaul for international job readiness
     * Język Polski A1
