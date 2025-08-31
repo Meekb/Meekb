@@ -1,4 +1,4 @@
-### Hello! Cześć! 👋 I'm Beth - she/her
+### Hello! Cześć! 👋 I'm Beth/Beza - she/her
 
 Big ol' nerd and passionate traveler  
 Formerly worked in logistics operations for 15+ years  
@@ -7,12 +7,16 @@ Working as a Full Stack Developer at Knight-Swift Transportation since August 20
 
 - 🔭 My team is currently working on migrating applications from Vue 2 to Vue 3 and Nuxt 2 to Nuxt 3
 - 🌱 I am Currently:
-    * Working on a GitHub portfolio overhaul for international job readiness
+    * Learning `bash-scripting`
     * Język Polski A1
 - 🌏 Traveling the world is my greatest passion. Some items I have checked off my bucket list:
-    * Stood upon The Great Wall of China
+    * Stood upon The Great Wall of China, AND visited the western end of it in Gansu
     * Rode a two-humped camel through the Gobi Desert
     * Wandered around the Western Carpathians via Zakopane, Poland
+- 🪣 Items I still need to check off:
+    * Peru 
+    * Göbeklitepe in Türkiye 
+    * Australia and New Zealand
 
 ## Tech Stack
 
