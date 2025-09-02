@@ -13,7 +13,7 @@ Working as a Full Stack Developer at Knight-Swift Transportation since August 20
     * Stood upon The Great Wall of China, AND visited the western end of it in Gansu
     * Rode a two-humped camel through the Gobi Desert
     * Wandered around the Western Carpathians via Zakopane, Poland
-- 🪣 Items I still need to check off:
+- 🪣 Items I'd love to check off:
     * Peru 
     * Göbeklitepe in Türkiye 
     * Australia and New Zealand
