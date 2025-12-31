@@ -7,7 +7,6 @@ Working as a Full Stack Developer at Knight-Swift Transportation since August 20
 
 - 🔭 My team is currently working on migrating applications from Vue 2 to Vue 3 and Nuxt 2 to Nuxt 3
 - 🌱 I am Currently:
-    * Learning `bash-scripting`
     * Język Polski A1
 - 🌏 Traveling the world is my greatest passion. Some items I have checked off my bucket list:
     * Stood upon The Great Wall of China, AND visited the western end of it in Gansu
