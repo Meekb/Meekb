@@ -9,13 +9,9 @@ Working as a Full Stack Developer at Knight-Swift Transportation since August 20
 - 🌱 I am Currently:
     * Język Polski A1
 - 🌏 Traveling the world is my greatest passion. Some items I have checked off my bucket list:
-    * Stood upon The Great Wall of China, AND visited the western end of it in Gansu
+    * Stood upon The Great Wall of China and then visited the western end of it in Dunhuang, Gansu Province
     * Rode a two-humped camel through the Gobi Desert
     * Wandered around the Western Carpathians via Zakopane, Poland
-- 🪣 Items I'd love to check off:
-    * Peru 
-    * Göbeklitepe in Türkiye 
-    * Australia and New Zealand
 
 ## Tech Stack
 
